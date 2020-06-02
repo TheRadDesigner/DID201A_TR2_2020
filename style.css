@@ -3,6 +3,7 @@ h1 {
   font-weight: 400;
   font-style: normal;
   font-size: 50px;
+  background-color: blue;
   }
   
 p {
@@ -44,6 +45,7 @@ p {
   padding-left: 50px;
   line-height: 50px;
 }
+  
 
 .navItem {
   flex-grow: 1;
